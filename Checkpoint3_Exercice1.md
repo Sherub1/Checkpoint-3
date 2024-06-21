@@ -50,4 +50,4 @@ Clique droit sur Gabriel Ghul > Properties > Account > Log On to... et ajouter l
 
 ![Capture d'écran 2024-06-21 105837](https://github.com/Sherub1/Checkpoint-3/assets/160050170/222fa516-49a7-465d-a512-33ab13a60918)
 
-###☺ Q.1.2.3
+### Q.1.2.3
