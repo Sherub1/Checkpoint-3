@@ -29,3 +29,25 @@ Je vais dans l'OU Direction des Ressources Humaines, et dans le groupe GrpUsersD
 
 ### Q.1.1.4
 
+Création du dossier personnel de Lionel Lemarchand
+
+![Capture d'écran 2024-06-21 103646](https://github.com/Sherub1/Checkpoint-3/assets/160050170/568ec578-bec2-4ead-9fdb-f3cf7f43c94f)
+
+Archivage et mise à jour des droits sur le dossier personelle de Kelly Rhameur
+
+![Capture d'écran 2024-06-21 104300](https://github.com/Sherub1/Checkpoint-3/assets/160050170/122982e2-199c-4197-b0a6-78cffa2e9024)
+
+## Partie 2 : Restriction utilisateurs
+
+### Q.1.2.1
+
+Clique droit sur Gabriel Ghul > Properties > Account > Logon Hours... et ajuster la plage horaire
+![Capture d'écran 2024-06-21 105304](https://github.com/Sherub1/Checkpoint-3/assets/160050170/2c1444b2-b294-4c53-918d-aa2642e8a5bf)
+
+### Q.1.2.2
+
+Clique droit sur Gabriel Ghul > Properties > Account > Log On to... et ajouter le nom de la machine
+
+![Capture d'écran 2024-06-21 105837](https://github.com/Sherub1/Checkpoint-3/assets/160050170/222fa516-49a7-465d-a512-33ab13a60918)
+
+###☺ Q.1.2.3
