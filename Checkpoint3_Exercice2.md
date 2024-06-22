@@ -123,3 +123,17 @@ Ces exeptions sont:
 Toutes les connections non citées ci-dessus sont interdites
 
 ### Q.2.5.4 
+
+On ajoute les régles qui accepte le traffic via les port 9101,9102 et 9103 ainsi que leur position.
+
+![Capture d'écran 2024-06-22 214212](https://github.com/Sherub1/Checkpoint-3/assets/160050170/1304250f-3ba7-4f33-8f83-28e28f88bd3d)
+
+## Partie 6 : Analyse de logs
+
+### Q.2.6.1
+
+
+Je séche , je trouve juste les dernières connexions faites sur le serveur
+
+
+![Capture d'écran 2024-06-22 221333](https://github.com/Sherub1/Checkpoint-3/assets/160050170/32e16b2b-00c7-42d2-ae75-0a1b13f49ad1)
