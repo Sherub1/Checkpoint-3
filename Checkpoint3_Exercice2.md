@@ -104,3 +104,22 @@ Ensuite, on édite le fichier fstab pour monter le volume au démarrage
 - ``bareos-sd`` gère les périphériques de stockage où les sauvegardes sont écrites.
 - ``bareos-fd`` est responsable de la sauvegarde et de la restauration des fichiers.
 
+## Partie 5 : Filtrage et analyse réseau
+
+### Q.2.5.1
+
+Les règles appliquées sur Netfilter bloque par défaut tout le trafic entrant à part les exceptions suivantes.
+
+### Q.2.5.2
+
+Ces exeptions sont:
+- Les paquets appartenant à des connexions existantes.
+- Les paquets provenant de l'interface loopback (lo).
+- Les connexions SSH (port 22).
+- Les paquets ICMP et ICMPv6
+
+### Q.2.5.3
+
+Toutes les connections non citées ci-dessus sont interdites
+
+### Q.2.5.4 
