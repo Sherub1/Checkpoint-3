@@ -91,4 +91,16 @@ Ensuite, on édite le fichier fstab pour monter le volume au démarrage
 
 ![Capture d'écran 2024-06-22 210300](https://github.com/Sherub1/Checkpoint-3/assets/160050170/2c0d1d00-221b-4a74-a658-ea2542efbd9d)
 
+### Q.2.3.5
+
+
+![Capture d'écran 2024-06-22 210510](https://github.com/Sherub1/Checkpoint-3/assets/160050170/e09be342-95a3-43bf-a6e5-f1f6ac220dcf)
+
+## Partie 4 : Sauvegardes
+
+### Q.2.4.1
+
+- ``bareos-dir`` gère l'ensemble des opérations de sauvegarde, de restauration, de vérification et d'archivage.
+- ``bareos-sd`` gère les périphériques de stockage où les sauvegardes sont écrites.
+- ``bareos-fd`` est responsable de la sauvegarde et de la restauration des fichiers.
 
