@@ -69,3 +69,26 @@ Et vérifier si le RAID1 fonctionne avec la commande:
 ``mdadm --detail /dev/md0``
 
 ![Capture d'écran 2024-06-22 165801](https://github.com/Sherub1/Checkpoint-3/assets/160050170/0ce4ee46-3562-4337-80bb-7580b56e8c9d)
+
+### Q.2.3.4
+
+![Capture d'écran 2024-06-22 204145](https://github.com/Sherub1/Checkpoint-3/assets/160050170/4f92e13a-4050-4e34-b85b-084d7c76aaa7)
+
+Après avoir vérifié l'espace disponible, on crée le volume logique 'Save'
+
+![Capture d'écran 2024-06-22 204619](https://github.com/Sherub1/Checkpoint-3/assets/160050170/8099d384-50a7-44d6-bcb8-5a20ef418897)
+
+On le formate en EXT4
+
+![Capture d'écran 2024-06-22 204824](https://github.com/Sherub1/Checkpoint-3/assets/160050170/175c96d9-4fab-4869-8299-419302149d5d)
+
+On monte le volume comme indiqué
+
+![Capture d'écran 2024-06-22 205235](https://github.com/Sherub1/Checkpoint-3/assets/160050170/764a3459-0113-400f-8032-3f46b0de0444)
+
+Ensuite, on édite le fichier fstab pour monter le volume au démarrage
+
+
+![Capture d'écran 2024-06-22 210300](https://github.com/Sherub1/Checkpoint-3/assets/160050170/2c0d1d00-221b-4a74-a658-ea2542efbd9d)
+
+
