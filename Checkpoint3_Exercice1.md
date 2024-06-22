@@ -68,6 +68,40 @@ Ensuite on se rends dans le Password Settings Container, pour ajouter une politi
 
 ![Capture d'écran 2024-06-22 143034](https://github.com/Sherub1/Checkpoint-3/assets/160050170/7488afbc-3a86-4fa5-ad83-5db8b0cee8fc)
 
+## Partie 3 : Lecteurs réseaux
 
+### Q.1.3.1
+
+Mettre les lecteur E: et F: en partage en allant sur Properties>Sharing>Advance Sharing.. et selectionner le partage de lecteur
+
+![Capture d'écran 2024-06-22 151040](https://github.com/Sherub1/Checkpoint-3/assets/160050170/4960db9b-30c7-4abe-8163-cf8274209620)
+
+
+Une fois les lecteurs configurés, on se rend dans le Group Policy Management et on crée une nouvelle régle appelée "Drive-Mount Policy"
+
+![Capture d'écran 2024-06-22 144509](https://github.com/Sherub1/Checkpoint-3/assets/160050170/390b320c-4795-425d-ac24-bee8d6446c28)
+
+Puis j'édite la nouvelle GPO
+
+![Capture d'écran 2024-06-22 144643](https://github.com/Sherub1/Checkpoint-3/assets/160050170/b4f9ddbb-4023-40a2-8f41-3ff888bbd3cd)
+
+Selectionner New > Mapped Drive
+
+
+![Capture d'écran 2024-06-22 144725](https://github.com/Sherub1/Checkpoint-3/assets/160050170/d92f937a-7c59-47a3-83a8-18b591e8c741)
+
+
+J'ajoute le chemin, le label du lecteur et sa lettre. Coche Reconnect et dans l'onglet Common je coche la deuxième option
+
+![Capture d'écran 2024-06-22 151228](https://github.com/Sherub1/Checkpoint-3/assets/160050170/999bcfc8-96d9-4543-9c1c-c68a792adbee)
+
+![Capture d'écran 2024-06-22 150954](https://github.com/Sherub1/Checkpoint-3/assets/160050170/e11f0dc0-c455-4eeb-bc62-6d25de8991c0)
+
+
+
+![Capture d'écran 2024-06-22 154311](https://github.com/Sherub1/Checkpoint-3/assets/160050170/e5d1db46-2f30-43c0-8d5c-98597a0b6f8a)
+
+On peut voir que la GPO est activé sur l'OU LabUsers
+![Capture d'écran 2024-06-22 154737](https://github.com/Sherub1/Checkpoint-3/assets/160050170/2b489564-8e37-404c-a145-b8cef66a1127)
 
 
