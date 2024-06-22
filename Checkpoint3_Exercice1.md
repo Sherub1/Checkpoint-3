@@ -51,3 +51,23 @@ Clique droit sur Gabriel Ghul > Properties > Account > Log On to... et ajouter l
 ![Capture d'écran 2024-06-21 105837](https://github.com/Sherub1/Checkpoint-3/assets/160050170/222fa516-49a7-465d-a512-33ab13a60918)
 
 ### Q.1.2.3
+
+Je crée un groupe dans l'OU LabUsers dans lequel je vais y ajouter tous les autres groupes des sous OU.
+
+![Capture d'écran 2024-06-22 142427](https://github.com/Sherub1/Checkpoint-3/assets/160050170/1d51f525-bf70-4b55-a99d-e39c2346d4a1)
+
+Exemple d'ajouts de groupe dans le groupe GrpLabUsers
+
+![Capture d'écran 2024-06-22 142501](https://github.com/Sherub1/Checkpoint-3/assets/160050170/38d1effd-e5a9-4740-b0db-4a08afe4d347)
+
+
+
+![Capture d'écran 2024-06-22 142803](https://github.com/Sherub1/Checkpoint-3/assets/160050170/ef2b9dfd-b51e-439f-94cf-25b335af6252)
+
+Ensuite on se rends dans le Password Settings Container, pour ajouter une politique de mot de passe au groupe GrpLabUsers
+
+![Capture d'écran 2024-06-22 143034](https://github.com/Sherub1/Checkpoint-3/assets/160050170/7488afbc-3a86-4fa5-ad83-5db8b0cee8fc)
+
+
+
+
